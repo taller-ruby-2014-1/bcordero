@@ -28,10 +28,24 @@ gem 'spring',        group: :development
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+gem 'devise'
 # Use unicorn as the app server
 # gem 'unicorn'
+gem 'haml'
 
+gem 'twitter-bootstrap-rails'
+
+gem 'bootstrap_v3'
+
+gem 'compass'
+
+gem 'gritter'
+
+gem 'sass'
+
+gem 'friendly_id'
+
+gem 'foundation'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
